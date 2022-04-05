@@ -1,0 +1,14 @@
+{
+  "name": "boids",
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "vite": "^2.8.6"
+  }
+}
